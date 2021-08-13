@@ -187,3 +187,8 @@ section::after {
 .sup-time {
   font-weight: 300;
 }
+ .cuoi{
+	text-align:center;
+	font-family:"Poppins", sans-serif;
+	color:#fff;
+ }
