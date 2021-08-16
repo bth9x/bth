@@ -24,8 +24,6 @@ section::before {
   left: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(120deg, #f86086, #fe8d77 80%);
-  clip-path: circle(30% at right 70%);
 }
 
 section::after {
@@ -35,6 +33,8 @@ section::after {
   left: 0;
   width: 100%;
   height: 100%;
+  background: linear-gradient(120deg, #1dc8e7, #20e6b9 30%);
+  clip-path: circle(20% at 10% 10%);
 }
 
 .container {
