@@ -13,7 +13,7 @@ body {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  background: #0B3861;
+  background: #141424;
   min-height: 100vh;
 }
 
@@ -185,7 +185,7 @@ section::after {
 }
 
  .cuoi{
-	background-color: #0B3861;
+	background-color: #141424;
 	text-align:center;
 	font-family:"Poppins", sans-serif;
 	color:#fff;
